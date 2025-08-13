@@ -1,0 +1,11 @@
+{
+  "short_name": "TestForge",
+  "name": "TestForge - AI-Powered Testing Platform",
+  "description": "Create, configure, and take unlimited AI-generated tests with instant scoring and detailed analytics.",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff",
+  "categories": ["education", "productivity", "utilities"]
+}
