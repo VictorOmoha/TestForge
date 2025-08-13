@@ -149,3 +149,9 @@ router.get('/weak-areas', protect, async (req, res) => {
 module.exports = router;
 
 
+
+
+
+
+
+

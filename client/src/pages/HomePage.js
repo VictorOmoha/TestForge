@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, CheckCircle, Brain, BarChart, Clock, Users } from 'lucide-react';
+import { ArrowRight, Brain, BarChart, Clock, Users } from 'lucide-react';
 
 const HomePage = () => {
   const features = [

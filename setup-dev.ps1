@@ -51,3 +51,9 @@ Write-Host "3. Access the application at http://localhost:3000" -ForegroundColor
 Write-Host ""
 Write-Host "🛑 To stop databases: docker-compose down" -ForegroundColor Yellow
 
+
+
+
+
+
+
